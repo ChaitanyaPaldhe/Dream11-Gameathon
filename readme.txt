@@ -53,12 +53,3 @@ Try to run the code multiple times when error occurs, errors usually occur due t
 
 Double-check the generated team on Dream11's official app before submitting!
 
-APIs:
-Serper:
-    -d2e6bf0eba627b2199ab5e0111e1a10824b76f20
-    -c3823c54e8685ef5b3ecc8fdf18a9443a7071581
-    -b87b3a812ae076ed1bcf2e2c8b30a7c644bbdc7c
-
-
-Gemini:
-    -AIzaSyCSrh2w4-Nt11jh1QQUc_wQG7kt_WI_xtM
